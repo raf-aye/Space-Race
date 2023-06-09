@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Enemy
+  - Score
+  - Background
+  - Main Player
+  - Explosion
+  - Planet
+  - Overlay
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Spaceman
+  - Spaceship
+  - Slime
+  - Asteroid
+  - RoboBird
+  - MonkeyBullet
+  - Snake
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Spaceship
+    uniqueID: 3258802587
+    locked: 0
+  - name: Astronaut
+    uniqueID: 1189442035
+    locked: 0
+  - name: Overlay
+    uniqueID: 367423425
+    locked: 0
